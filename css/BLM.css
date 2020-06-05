@@ -18,5 +18,16 @@ header h1{
 main{
 	max-width: 800px;
 	margin: 0 auto;
+	padding: 20px;
+}
+h2{
+	padding: 20px;
+
+}
+a{
+	color: white;
+}
+a:hover{
+	color: yellow;
 }
 }
